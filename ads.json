@@ -1,0 +1,17 @@
+[
+    {
+        "type": "text",
+        "content": "Entdecken Sie die neuesten medizinischen Geräte!",
+        "link": "https://example.com/medical-devices"
+    },
+    {
+        "type": "html",
+        "content": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><ins class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-1234567890\" data-ad-slot=\"1234567890\" data-ad-format=\"auto\"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>",
+        "link": "https://example.com/adsense"
+    },
+    {
+        "type": "text",
+        "content": "Jetzt kostenloses E-Book zu Gesundheitstipps downloaden!",
+        "link": "https://example.com/ebook"
+    }
+]

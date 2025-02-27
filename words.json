@@ -1,0 +1,843 @@
+[
+    {
+        "categories": [
+            {
+                "name": "Medikamente",
+                "words": ["Cephalosporine", "Penicilline", "Makrolide", "Fluorchinolone"],
+                "color": "yellow"
+            },
+            {
+                "name": "Diagnostische Verfahren",
+                "words": ["Computertomographie", "Magnetresonanztomographie", "Positronenemissionstomographie", "Elektroenzephalographie"],
+                "color": "green"
+            },
+            {
+                "name": "Krankheiten",
+                "words": ["Morbus Crohn", "Colitis ulcerosa", "Divertikulitis", "Pankreatitis"],
+                "color": "blue"
+            },
+            {
+                "name": "Anatomie",
+                "words": ["Corpus callosum", "Foramen magnum", "Ductus choledochus", "Ligamentum teres"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Chirurgische Eingriffe",
+                "words": ["Laparoskopie", "Thorakoskopie", "Arthroskopie", "Endoskopie"],
+                "color": "yellow"
+            },
+            {
+                "name": "Laborwerte",
+                "words": ["Kreatinin", "Harnsäure", "Bilirubin", "Troponin"],
+                "color": "green"
+            },
+            {
+                "name": "Medizinische Fachrichtungen",
+                "words": ["Gastroenterologie", "Nephrologie", "Pulmonologie", "Rheumatologie"],
+                "color": "blue"
+            },
+            {
+                "name": "Symptome",
+                "words": ["Dyspnoe", "Tachykardie", "Hypertonie", "Hypoglykämie"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Medizinische Geräte",
+                "words": ["Defibrillator", "Ventilator", "Infusionspumpe", "Dialysegerät"],
+                "color": "yellow"
+            },
+            {
+                "name": "Impfstoffe",
+                "words": ["MMR-Impfstoff", "Hepatitis-B-Impfstoff", "Influenza-Impfstoff", "HPV-Impfstoff"],
+                "color": "green"
+            },
+            {
+                "name": "Endokrine Erkrankungen",
+                "words": ["Hyperthyreose", "Hypothyreose", "Cushing-Syndrom", "Addison-Krankheit"],
+                "color": "blue"
+            },
+            {
+                "name": "Neurologische Untersuchungen",
+                "words": ["Reflexhammer", "Stimmgabel", "Ophthalmoskop", "Otoskop"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Herz-Kreislauf-System",
+                "words": ["Aorta", "Vena cava", "Pulmonalarterie", "Koronararterie"],
+                "color": "yellow"
+            },
+            {
+                "name": "Atemwegserkrankungen",
+                "words": ["Asthma", "COPD", "Pneumonie", "Tuberkulose"],
+                "color": "green"
+            },
+            {
+                "name": "Hautkrankheiten",
+                "words": ["Ekzem", "Psoriasis", "Akne", "Dermatitis"],
+                "color": "blue"
+            },
+            {
+                "name": "Medizinische Ethik",
+                "words": ["Vertraulichkeit", "Einverständniserklärung", "Autonomie", "Wohltätigkeit"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Verdauungssystem",
+                "words": ["Ösophagus", "Magen", "Leber", "Pankreas"],
+                "color": "yellow"
+            },
+            {
+                "name": "Psychische Störungen",
+                "words": ["Depression", "Angststörung", "Schizophrenie", "Bipolare Störung"],
+                "color": "green"
+            },
+            {
+                "name": "Impfungen",
+                "words": ["Tetanus", "Diphtherie", "Pertussis", "Polio"],
+                "color": "blue"
+            },
+            {
+                "name": "Medizinische Präfixe",
+                "words": ["Hyper-", "Hypo-", "Tachy-", "Brady-"],
+                "color": "purple"
+            }
+        ]
+    },
+    
+    {
+        "categories": [
+            {
+                "name": "Antidepressiva",
+                "words": ["Sertralin", "Citalopram", "Fluoxetin", "Venlafaxin"],
+                "color": "yellow"
+            },
+            {
+                "name": "Herzkrankheiten",
+                "words": ["Angina pectoris", "Myokardinfarkt", "Endokarditis", "Perikarditis"],
+                "color": "green"
+            },
+            {
+                "name": "Bluttests",
+                "words": ["Leukozyten", "Thrombozyten", "Erythrozyten", "Hämoglobin"],
+                "color": "blue"
+            },
+            {
+                "name": "Gelenke",
+                "words": ["Synovialgelenk", "Kniegelenk", "Hüftgelenk", "Schultergelenk"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antibiotika",
+                "words": ["Azithromycin", "Amoxicillin", "Clindamycin", "Levofloxacin"],
+                "color": "yellow"
+            },
+            {
+                "name": "Nervensystem",
+                "words": ["Cerebellum", "Thalamus", "Hypothalamus", "Medulla oblongata"],
+                "color": "green"
+            },
+            {
+                "name": "Endoskopische Verfahren",
+                "words": ["Gastroskopie", "Koloskopie", "Bronchoskopie", "Zystoskopie"],
+                "color": "blue"
+            },
+            {
+                "name": "Knochenerkrankungen",
+                "words": ["Osteoporose", "Osteomyelitis", "Arthritis", "Fraktur"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Schmerzmittel",
+                "words": ["Paracetamol", "Ibuprofen", "Morphin", "Tramadol"],
+                "color": "yellow"
+            },
+            {
+                "name": "Blutdruckmedikamente",
+                "words": ["Lisinopril", "Amlodipin", "Metoprolol", "Hydrochlorothiazid"],
+                "color": "green"
+            },
+            {
+                "name": "Hormone",
+                "words": ["Insulin", "Thyroxin", "Cortisol", "Adrenalin"],
+                "color": "blue"
+            },
+            {
+                "name": "Augenerkrankungen",
+                "words": ["Glaukom", "Katarakt", "Makula-Degeneration", "Retinopathie"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Immunsystem",
+                "words": ["Lymphozyten", "Makrophagen", "Neutrophile", "Eosinophile"],
+                "color": "yellow"
+            },
+            {
+                "name": "Infektionen",
+                "words": ["Sepsis", "Meningitis", "Endokarditis", "Osteomyelitis"],
+                "color": "green"
+            },
+            {
+                "name": "Onkologie",
+                "words": ["Karzinom", "Sarkom", "Leukämie", "Lymphom"],
+                "color": "blue"
+            },
+            {
+                "name": "Intensivmedizin",
+                "words": ["Beatmungsgerät", "Zentralkatheter", "Infusionspumpe", "Monitor"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antimykotika",
+                "words": ["Fluconazol", "Amphotericin B", "Ketoconazol", "Voriconazol"],
+                "color": "yellow"
+            },
+            {
+                "name": "Lebererkrankungen",
+                "words": ["Hepatitis", "Zirrhose", "Cholestase", "Hämochromatose"],
+                "color": "green"
+            },
+            {
+                "name": "Nierenanatomie",
+                "words": ["Glomerulus", "Tubulus", "Nierenbecken", "Nierenarterie"],
+                "color": "blue"
+            },
+            {
+                "name": "Orthopädische Verfahren",
+                "words": ["Arthrodese", "Osteotomie", "Prothetik", "Laminektomie"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antiepileptika",
+                "words": ["Carbamazepin", "Valproat", "Lamotrigin", "Levetiracetam"],
+                "color": "yellow"
+            },
+            {
+                "name": "Muskelerkrankungen",
+                "words": ["Myasthenia gravis", "Dystrophie", "Myositis", "Krämpfe"],
+                "color": "green"
+            },
+            {
+                "name": "Blutgerinnung",
+                "words": ["Heparin", "Warfarin", "Rivaroxaban", "Apixaban"],
+                "color": "blue"
+            },
+            {
+                "name": "HNO-Erkrankungen",
+                "words": ["Otitis", "Sinusitis", "Pharyngitis", "Laryngitis"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antihistaminika",
+                "words": ["Cetirizin", "Loratadin", "Fexofenadin", "Diphenhydramin"],
+                "color": "yellow"
+            },
+            {
+                "name": "Diabetes-Medikamente",
+                "words": ["Metformin", "Glibenclamid", "Sitagliptin", "Insulin glargin"],
+                "color": "green"
+            },
+            {
+                "name": "Gefäßerkrankungen",
+                "words": ["Aneurysma", "Thrombose", "Embolie", "Arteriosklerose"],
+                "color": "blue"
+            },
+            {
+                "name": "Kinderheilkunde",
+                "words": ["Mumps", "Masern", "Röteln", "Windpocken"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antipsychotika",
+                "words": ["Risperidon", "Olanzapin", "Quetiapin", "Haloperidol"],
+                "color": "yellow"
+            },
+            {
+                "name": "Rheumatische Erkrankungen",
+                "words": ["Rheumatoide Arthritis", "Lupus erythematodes", "Gicht", "Spondylitis"],
+                "color": "green"
+            },
+            {
+                "name": "Lungenanatomie",
+                "words": ["Bronchiolen", "Alveolen", "Pleura", "Lungenarterie"],
+                "color": "blue"
+            },
+            {
+                "name": "Notfallmedizin",
+                "words": ["Reanimation", "Intubation", "Defibrillation", "Kardioversion"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antiemetika",
+                "words": ["Metoclopramid", "Ondansetron", "Dimenhydrinat", "Aprepitant"],
+                "color": "yellow"
+            },
+            {
+                "name": "Hormonstörungen",
+                "words": ["Diabetes insipidus", "Akromegalie", "Hypophysenadenom", "Hyperparathyreoidismus"],
+                "color": "green"
+            },
+            {
+                "name": "Urologie",
+                "words": ["Harnleiter", "Blase", "Urethra", "Prostata"],
+                "color": "blue"
+            },
+            {
+                "name": "Allergien",
+                "words": ["Anaphylaxie", "Urtikaria", "Rhinitis", "Asthma"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antiviralmittel",
+                "words": ["Aciclovir", "Oseltamivir", "Ribavirin", "Remdesivir"],
+                "color": "yellow"
+            },
+            {
+                "name": "Hämatologie",
+                "words": ["Anämie", "Leukopenie", "Thrombopenie", "Polycythämie"],
+                "color": "green"
+            },
+            {
+                "name": "Gynäkologie",
+                "words": ["Endometriose", "Myom", "Ovarialzyste", "Zervixkarzinom"],
+                "color": "blue"
+            },
+            {
+                "name": "Wundversorgung",
+                "words": ["Sutur", "Drainage", "Verband", "Tamponade"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Bronchodilatatoren",
+                "words": ["Salbutamol", "Ipratropium", "Formoterol", "Tiotropium"],
+                "color": "yellow"
+            },
+            {
+                "name": "Nierenerkrankungen",
+                "words": ["Nephritis", "Nephrose", "Urolithiasis", "Pyelonephritis"],
+                "color": "green"
+            },
+            {
+                "name": "Krebsbehandlungen",
+                "words": ["Chemotherapie", "Strahlentherapie", "Immuntherapie", "Hormontherapie"],
+                "color": "blue"
+            },
+            {
+                "name": "Augenuntersuchungen",
+                "words": ["Tonometrie", "Funduskopie", "Perimetrie", "Refraktometrie"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Diuretika",
+                "words": ["Furosemid", "Spironolacton", "Hydrochlorothiazid", "Torasemid"],
+                "color": "yellow"
+            },
+            {
+                "name": "Autoimmunerkrankungen",
+                "words": ["Multiple Sklerose", "Psoriasis", "Rheuma", "Colitis ulcerosa"],
+                "color": "green"
+            },
+            {
+                "name": "Operationsmethoden",
+                "words": ["Hysterektomie", "Appendektomie", "Cholezystektomie", "Prostatektomie"],
+                "color": "blue"
+            },
+            {
+                "name": "Kardiologische Tests",
+                "words": ["Echokardiographie", "Belastungs-EKG", "Herzkatheter", "Holter-Monitor"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antikoagulantien",
+                "words": ["Enoxaparin", "Dabigatran", "Fondaparinux", "Phenprocoumon"],
+                "color": "yellow"
+            },
+            {
+                "name": "Skelettsystem",
+                "words": ["Clavicula", "Scapula", "Ilium", "Ischium"],
+                "color": "green"
+            },
+            {
+                "name": "Neurologische Symptome",
+                "words": ["Paresthesie", "Ataxie", "Tremor", "Aphasie"],
+                "color": "blue"
+            },
+            {
+                "name": "Psychiatrische Diagnosen",
+                "words": ["Borderline", "Narzissmus", "Zwangsstörung", "Phobie"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Anticholinergika",
+                "words": ["Atropin", "Scopolamin", "Oxybutynin", "Tolterodin"],
+                "color": "yellow"
+            },
+            {
+                "name": "Darmkrankheiten",
+                "words": ["Ileus", "Enteritis", "Kolitis", "Divertikulitis"],
+                "color": "green"
+            },
+            {
+                "name": "Blutprodukte",
+                "words": ["Erythrozytenkonzentrat", "Thrombozytenkonzentrat", "Frischplasma", "Kryopräzipitat"],
+                "color": "blue"
+            },
+            {
+                "name": "Endokrinologie",
+                "words": ["Hypophyse", "Schilddrüse", "Nebennieren", "Gonadotropin"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antimigränemittel",
+                "words": ["Sumatriptan", "Rizatriptan", "Topiramat", "Propranolol"],
+                "color": "yellow"
+            },
+            {
+                "name": "Hormonpräparate",
+                "words": ["Östrogen", "Progesteron", "Testosteron", "Glukokortikoide"],
+                "color": "green"
+            },
+            {
+                "name": "Hautschichten",
+                "words": ["Epidermis", "Dermis", "Subkutis", "Stratum corneum"],
+                "color": "blue"
+            },
+            {
+                "name": "Infektionswege",
+                "words": ["Droplet", "Kontakt", "Airborne", "Vektor"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antithrombotika",
+                "words": ["Aspirin", "Clopidogrel", "Ticagrelor", "Prasugrel"],
+                "color": "yellow"
+            },
+            {
+                "name": "Leberfunktionstests",
+                "words": ["ALT", "AST", "GGT", "ALP"],
+                "color": "green"
+            },
+            {
+                "name": "Geburtsmedizin",
+                "words": ["Sectio caesarea", "Forcepsgeburt", "Vakuumextraktion", "Episiotomie"],
+                "color": "blue"
+            },
+            {
+                "name": "Lymphsystem",
+                "words": ["Lymphknoten", "Milz", "Thymus", "Tonsillen"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antidiabetika",
+                "words": ["Exenatid", "Liraglutid", "Dapagliflozin", "Acarbose"],
+                "color": "yellow"
+            },
+            {
+                "name": "Knochentests",
+                "words": ["Densitometrie", "Osteokalzin", "Kollagen-Crosslinks", "Phosphatase"],
+                "color": "green"
+            },
+            {
+                "name": "Atemtests",
+                "words": ["Spirometrie", "Peak-Flow", "Bodyplethysmographie", "Diffusionskapazität"],
+                "color": "blue"
+            },
+            {
+                "name": "Infektionserreger",
+                "words": ["Streptokokken", "Staphylokokken", "Escherichia coli", "Pseudomonas"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Beta-Blocker",
+                "words": ["Bisoprolol", "Carvedilol", "Nebivolol", "Atenolol"],
+                "color": "yellow"
+            },
+            {
+                "name": "Gehirnregionen",
+                "words": ["Frontallappen", "Parietallappen", "Temporallappen", "Okzipitallappen"],
+                "color": "green"
+            },
+            {
+                "name": "Schwangerschaftskomplikationen",
+                "words": ["Präeklampsie", "Eklampsie", "Plazentalösung", "Gestationsdiabetes"],
+                "color": "blue"
+            },
+            {
+                "name": "Radiologie",
+                "words": ["Sonographie", "Mammographie", "Angiographie", "Fluoroscopie"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antiarrythmika",
+                "words": ["Amiodaron", "Lidocain", "Verapamil", "Sotalol"],
+                "color": "yellow"
+            },
+            {
+                "name": "Augenmedikamente",
+                "words": ["Timolol", "Latanoprost", "Pilocarpin", "Brinzolamid"],
+                "color": "green"
+            },
+            {
+                "name": "Blutdruckmessung",
+                "words": ["Manometer", "Manschette", "Phonendoskop", "Doppler"],
+                "color": "blue"
+            },
+            {
+                "name": "Wundarten",
+                "words": ["Platzwunde", "Schnittwunde", "Stichwunde", "Schürfwunde"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antiseptika",
+                "words": ["Povidon-Iod", "Chlorhexidin", "Ethanol", "Octenidin"],
+                "color": "yellow"
+            },
+            {
+                "name": "Hormondiagnostik",
+                "words": ["TSH", "FSH", "LH", "ACTH"],
+                "color": "green"
+            },
+            {
+                "name": "Herzklappen",
+                "words": ["Mitral", "Aorten", "Trikuspidal", "Pulmonal"],
+                "color": "blue"
+            },
+            {
+                "name": "Rehabilitation",
+                "words": ["Ergotherapie", "Physiotherapie", "Logopädie", "Psychotherapie"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antibiotika",
+                "words": ["Cephalosporine", "Penicilline", "Makrolide", "Fluorchinolone"],
+                "color": "yellow"
+            },
+            {
+                "name": "Neurodegenerative Erkrankungen",
+                "words": ["Alzheimer", "Parkinson", "Huntington", "Amyotrophe Lateralsklerose"],
+                "color": "green"
+            },
+            {
+                "name": "Bildgebende Verfahren",
+                "words": ["Computertomographie", "Magnetresonanztomographie", "Positronenemissionstomographie", "Ultraschall"],
+                "color": "blue"
+            },
+            {
+                "name": "Herz-Kreislauf-System",
+                "words": ["Aorta", "Vena cava", "Pulmonalarterie", "Koronararterie"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antidepressiva",
+                "words": ["Sertralin", "Citalopram", "Fluoxetin", "Venlafaxin"],
+                "color": "yellow"
+            },
+            {
+                "name": "Autoimmunerkrankungen",
+                "words": ["Rheumatoide Arthritis", "Lupus erythematodes", "Multiple Sklerose", "Morbus Crohn"],
+                "color": "green"
+            },
+            {
+                "name": "Labortests",
+                "words": ["Blutsenkungsgeschwindigkeit", "C-reaktives Protein", "Leukozytenzahl", "Hämoglobinwert"],
+                "color": "blue"
+            },
+            {
+                "name": "Nervensystem",
+                "words": ["Axon", "Dendrit", "Synapse", "Myelinscheide"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Schmerzmittel",
+                "words": ["Morphin", "Fentanyl", "Tramadol", "Oxycodon"],
+                "color": "yellow"
+            },
+            {
+                "name": "Infektionskrankheiten",
+                "words": ["Tuberkulose", "Malaria", "HIV", "Hepatitis B"],
+                "color": "green"
+            },
+            {
+                "name": "Chirurgische Eingriffe",
+                "words": ["Appendektomie", "Cholezystektomie", "Hysterektomie", "Prostatektomie"],
+                "color": "blue"
+            },
+            {
+                "name": "Endokrine System",
+                "words": ["Hypophyse", "Schilddrüse", "Nebennieren", "Pankreas"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antikoagulantien",
+                "words": ["Heparin", "Warfarin", "Rivaroxaban", "Apixaban"],
+                "color": "yellow"
+            },
+            {
+                "name": "Medizinische Notfälle",
+                "words": ["Anaphylaxie", "Herzinfarkt", "Schlaganfall", "Sepsis"],
+                "color": "green"
+            },
+            {
+                "name": "Medizinische Syndrome",
+                "words": ["Down-Syndrom", "Turner-Syndrom", "Klinefelter-Syndrom", "Marfan-Syndrom"],
+                "color": "blue"
+            },
+            {
+                "name": "Blutgerinnungsfaktoren",
+                "words": ["Faktor VIII", "Faktor IX", "Faktor VII", "Faktor X"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antimykotika",
+                "words": ["Fluconazol", "Amphotericin B", "Voriconazol", "Terbinafin"],
+                "color": "yellow"
+            },
+            {
+                "name": "Lebererkrankungen",
+                "words": ["Hepatitis C", "Leberzirrhose", "Hepatozelluläres Karzinom", "Cholestase"],
+                "color": "green"
+            },
+            {
+                "name": "Nierenfunktionstests",
+                "words": ["Kreatinin", "Harnstoff", "Glomeruläre Filtrationsrate", "Cystatin C"],
+                "color": "blue"
+            },
+            {
+                "name": "Orthopädische Verfahren",
+                "words": ["Arthroskopie", "Osteotomie", "Laminektomie", "Diskektomie"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antiepileptika",
+                "words": ["Carbamazepin", "Phenytoin", "Valproinsäure", "Levetiracetam"],
+                "color": "yellow"
+            },
+            {
+                "name": "Muskelerkrankungen",
+                "words": ["Myasthenia gravis", "Duchenne-Muskeldystrophie", "Polymyositis", "Dermatomyositis"],
+                "color": "green"
+            },
+            {
+                "name": "Blutgasanalyse",
+                "words": ["pH-Wert", "pCO2", "pO2", "Bikarbonat"],
+                "color": "blue"
+            },
+            {
+                "name": "HNO-Erkrankungen",
+                "words": ["Otitis media", "Sinusitis", "Pharyngitis", "Laryngitis"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antihistaminika",
+                "words": ["Loratadin", "Cetirizin", "Fexofenadin", "Desloratadin"],
+                "color": "yellow"
+            },
+            {
+                "name": "Diabetes-Medikamente",
+                "words": ["Metformin", "Glibenclamid", "Insulin glargin", "Exenatid"],
+                "color": "green"
+            },
+            {
+                "name": "Gefäßerkrankungen",
+                "words": ["Arterielle Verschlusskrankheit", "Venöse Thromboembolie", "Aortenaneurysma", "Raynaud-Syndrom"],
+                "color": "blue"
+            },
+            {
+                "name": "Kinderheilkunde",
+                "words": ["Kawasaki-Syndrom", "Morbus Perthes", "Skoliose", "Epiphysiolyse"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antipsychotika",
+                "words": ["Risperidon", "Olanzapin", "Quetiapin", "Aripiprazol"],
+                "color": "yellow"
+            },
+            {
+                "name": "Rheumatische Erkrankungen",
+                "words": ["Systemischer Lupus erythematodes", "Sjögren-Syndrom", "Vaskulitis", "Polymyalgia rheumatica"],
+                "color": "green"
+            },
+            {
+                "name": "Lungenfunktionstests",
+                "words": ["FEV1", "FVC", "PEF", "TLC"],
+                "color": "blue"
+            },
+            {
+                "name": "Notfallmedizin",
+                "words": ["Advanced Life Support", "Basic Life Support", "Intubation", "Defibrillation"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antiemetika",
+                "words": ["Metoclopramid", "Ondansetron", "Aprepitant", "Dexamethason"],
+                "color": "yellow"
+            },
+            {
+                "name": "Hormonstörungen",
+                "words": ["Hyperthyreose", "Hypothyreose", "Cushing-Syndrom", "Addison-Krankheit"],
+                "color": "green"
+            },
+            {
+                "name": "Urologische Erkrankungen",
+                "words": ["Benigne Prostatahyperplasie", "Harnsteine", "Harninkontinenz", "Erektile Dysfunktion"],
+                "color": "blue"
+            },
+            {
+                "name": "Allergien",
+                "words": ["Anaphylaxie", "Urtikaria", "Angioödem", "Kontaktallergie"],
+                "color": "purple"
+            }
+        ]
+    },
+    {
+        "categories": [
+            {
+                "name": "Antivirale Medikamente",
+                "words": ["Aciclovir", "Oseltamivir", "Ribavirin", "Sofosbuvir"],
+                "color": "yellow"
+            },
+            {
+                "name": "Hämatologische Erkrankungen",
+                "words": ["Hämophilie", "Thalassämie", "Sichelzellanämie", "Myelodysplastisches Syndrom"],
+                "color": "green"
+            },
+            {
+                "name": "Gynäkologische Erkrankungen",
+                "words": ["Endometriose", "Polyzystisches Ovarialsyndrom", "Myom", "Zervixkarzinom"],
+                "color": "blue"
+            },
+            {
+                "name": "Wundversorgung",
+                "words": ["Primäre Wundheilung", "Sekundäre Wundheilung", "Tertiäre Wundheilung", "Granulation"],
+                "color": "purple"
+            }
+        ]
+    }
+]
